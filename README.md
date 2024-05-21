@@ -4,7 +4,7 @@ My interview bot is an AI-powered tool that helps you practice for job interview
 ## Demo Video
 - Click On Image to Watch Video
   
-  [![Click Here to Watch Video](https://github.com/TechNodes2-0/Interview-Bot/assets/95977507/2104082d-8724-408e-adc5-a8d144f9f6b1)](https://drive.google.com/file/d/1LDZCjfwGW1-IAkEy0uvkCgSsw7HfB_2W/preview)
+  [![Click Here to Watch Video](https://github.com/TechNodes2-0/Interview-Bot/assets/95977507/2104082d-8724-408e-adc5-a8d144f9f6b1)](https://youtu.be/jgPw52hDgaQ)
 
 # Contributing to Interview Bot
 
