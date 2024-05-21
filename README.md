@@ -1,6 +1,10 @@
-# Interview_Bot
+# Interview Bot
 My interview bot is an AI-powered tool that helps you practice for job interviews by asking you a series of questions related to your desired position. It also generates an analysis of your answers and provides feedback on areas where you can improve. The analysis is displayed in an easy-to-read format, making it simple for you to understand your strengths and weaknesses in the interview process.
 
+## Demo Video
+- Click On Image to Watch Video
+  
+  [![Click Here to Watch Video](https://github.com/TechNodes2-0/Interview-Bot/assets/95977507/2104082d-8724-408e-adc5-a8d144f9f6b1)](https://drive.google.com/file/d/1LDZCjfwGW1-IAkEy0uvkCgSsw7HfB_2W/preview)
 
 # Contributing to Interview Bot
 
@@ -8,7 +12,7 @@ We welcome contributions to our Project ! Whether it's reporting bugs, suggestin
 
 ## Reporting Bugs
 
-If you find a bug while playing the game, please file an issue in the [issue tracker](https://github.com/JayeshYadav99Endless-Running-Game---Beginner-Project/issues) with the following information:
+If you find a bug while using this interview tool, please file an issue in the [issue tracker](https://github.com/TechNodes2-0/Interview-Bot/issues) with the following information:
 - A clear and concise description of the bug
 - Steps to reproduce the bug
 - Screenshots or videos (if applicable)
