@@ -2,8 +2,6 @@ import express from "express";
 import * as dotenv from "dotenv";
 import cors from "cors";
 import { GoogleGenerativeAI } from "@google/generative-ai";
-import fetch from 'node-fetch';
-import { isCorrect,formatQuestions } from "./functions.js";
 
 dotenv.config();
 

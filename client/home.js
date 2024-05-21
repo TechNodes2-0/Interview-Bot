@@ -31,6 +31,7 @@ let questions = [];
 let answers = [];
 let remarks = [];
 let optimise_ans = [];
+const SERVER = "https://interview-bot.onrender.com";
 
 function loader(element) {
   element.textContent = "";
@@ -46,7 +47,7 @@ function loader(element) {
 
 async function generateQue() {
   loader(loding);
-  const response = await fetch("https://interview-bot.onrender.com", {
+  const response = await fetch(SERVER, {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
@@ -103,7 +104,7 @@ nextButton.addEventListener("click", (e) => {
 async function getRemarks() {
   for (let i = 0; i < questions.length; i++) {
     loader(loding);
-    const response = await fetch("https://interview-bot.onrender.com", {
+    const response = await fetch(SERVER, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -134,7 +135,7 @@ async function getRemarks() {
 async function getOptimise() {
   for (let i = 0; i < questions.length; i++) {
     loader(loding);
-    const response = await fetch("https://interview-bot.onrender.com", {
+    const response = await fetch(SERVER, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
